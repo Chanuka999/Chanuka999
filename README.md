@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm CHANUKA RANDITHA</h1>
 <h3 align="center">computer Science student</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Chanuka999/chanuka999/81477ef051bee677d03b54ff2b8a66ecde6b2618/CHANUKA%20RANDITHA%20(1).png">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5yX62tOZiJUOAce_fsQwFo1dbqx_CzdNWQ&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuka999&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka999" /> </p>
 
 <h3 align="left">Connect with me:</h3>
