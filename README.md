@@ -1,4 +1,4 @@
-![logo](https://github.com/Chanuka999/chanuka999/blob/main/Virtual.png?raw=true)
+![logo](https://raw.githubusercontent.com/Chanuka999/chanuka999/81477ef051bee677d03b54ff2b8a66ecde6b2618/CHANUKA%20RANDITHA%20(1).png)
 <h1 align="center">Hi 👋, I'm CHANUKA RANDITHA</h1>
 <h3 align="center">computer Science student</h3>
 
