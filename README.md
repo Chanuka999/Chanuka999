@@ -1,8 +1,8 @@
-!
+![logo](https://github.com/Chanuka999/chanuka999/blob/main/Virtual.png?raw=true)
 <h1 align="center">Hi 👋, I'm CHANUKA RANDITHA</h1>
 <h3 align="center">computer Science student</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animation%20coding%20gif&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5612AQHmfXu03WIBhA%2Farticle-cover_image-shrink_720_1280%2F0%2F1689012633580%3Fe%3D2147483647%26v%3Dbeta%26t%3DtLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Flets-talk-some-best-practices-developers-kasun-dananjaya&docid=m-R3bzXuRbad0M&tbnid=xI6UQwVdJYxxHM&vet=12ahUKEwiHp7jyiZ6GAxVfklYBHZYGDGEQM3oECDcQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwiHp7jyiZ6GAxVfklYBHZYGDGEQM3oECDcQAA">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5yX62tOZiJUOAce_fsQwFo1dbqx_CzdNWQ&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuka999&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka999" /> </p>
 
 <h3 align="left">Connect with me:</h3>
