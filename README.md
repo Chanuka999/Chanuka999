@@ -25,8 +25,7 @@
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka999&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=FF0000" />
     <br/>
-    <!-- https://github.com/anuraghazra/github-readme-stats // WakaTime Stats-->
-
+    
 </p>
 </details>
 
