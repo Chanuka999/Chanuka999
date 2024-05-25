@@ -28,5 +28,7 @@
     
 </p>
 </details>
-
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Feel%20free%20to%20Follow&fontSize=60&animation=twinkling&fontAlignY=30&desc=%20for%20more%20Updates&descSize=30&section=footer" />
+</p>
 
