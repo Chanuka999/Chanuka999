@@ -3,7 +3,8 @@
 <h3 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=40&lines=Hey+There+👋,+I'm+CHANUKA+RANDITHA;+BSC+UNDERGRADUATE+STUDENT+☀;EASTERN+UNIVARSITY;+COMPUTER+SCIENCE+STUDENT+💻;Love+To+Impactful+Projects+🛠;">
 </h3>
-<h3 align="center">computer Science student</h3>
+
+<h3 align="center">computer Science undergraduate</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5yX62tOZiJUOAce_fsQwFo1dbqx_CzdNWQ&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuka999&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka999" /> </p>
