@@ -22,11 +22,11 @@
 | Title | Icon |
 | ------ | ------ |
 | IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |<br/>
-| App Development |  <img src="https://skillicons.dev/icons?i=dart,java" /> |
-| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |
-| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
-| UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,bash" /> |
+| App Development |  <img src="https://skillicons.dev/icons?i=dart,java" /> |<br/>
+| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |<br/>
+| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |<br/>
+| UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |<br/>
+| Others |  <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,bash" /> |<br/>
 | favourite |  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui,js,jquery,ts,express,nodejs,mongodb" /> |
                                                                 
 </div>
