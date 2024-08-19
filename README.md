@@ -21,7 +21,7 @@
 <div align="center">
 | Title | Icon |
 | ------ | ------ |
-| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
+| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |<br/>
 | App Development |  <img src="https://skillicons.dev/icons?i=dart,java" /> |
 | Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |
 | Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
