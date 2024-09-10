@@ -1,5 +1,5 @@
 ![logo](https://raw.githubusercontent.com/Chanuka999/chanuka999/81477ef051bee677d03b54ff2b8a66ecde6b2618/CHANUKA%20RANDITHA%20(1).png)
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mnpsnuwan&data=followers,stars,commits&theme=dark)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6666&height=120&section=header"/>
 <h3 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=40&lines=Hey+There+👋,+I'm+CHANUKA+RANDITHA;+BSC+UNDERGRADUATE+STUDENT+☀;EASTERN+UNIVERSITY;+COMPUTER+SCIENCE+STUDENT+💻;Love+To+Impactful+Projects+🛠;">
