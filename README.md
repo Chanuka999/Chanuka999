@@ -8,11 +8,9 @@
 <h1 align="center">✨ About Me</h1>
 <h3 align="center">I'm CHANUKA RANDITHA</h3>
 <p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>
-
- 
-  🌱 I’m currently learning <strong>Java,PHP,NODE JS,PYTHON,REACT</strong><br />
-  💬 Ask me about <strong>FULL STACK WEB DEVELOPMENT</strong><br />
-  📫 How to reach me: <strong>chanukaranditha9@gmail.com</strong><br />
+<p align="center">🌱 I’m currently learning <strong>Java,PHP,NODE JS,PYTHON,REACT</strong></p><br />
+ <p align="center"> 💬 Ask me about <strong>FULL STACK WEB DEVELOPMENT</strong></p><br />
+  <p align="center">📫 How to reach me: <strong>chanukaranditha99@gmail.com</strong></p><br />
  
 </p>
 <br>
