@@ -5,7 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=40&lines=Hey+There+👋,+I'm+CHANUKA+RANDITHA;+BSC+UNDERGRADUATE+STUDENT+☀;EASTERN+UNIVERSITY;+COMPUTER+SCIENCE+STUDENT+💻;Love+To+Impactful+Projects+🛠;">
 </h3>
 
-<h3 align="center">computer Science undergraduate</h3>
+<h1 align="center">✨ About Me</h1>
+<h3 align="center">I'm CHANUKA RANDITHA</h3>
+<p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>
+<p align="center">
+Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka<br />
+ 
+  🌱 I’m currently learning <strong>Java,PHP,NODE JS,PYTHON,REACT</strong><br />
+  💬 Ask me about <strong>FULL STACK WEB DEVELOPMENT</strong><br />
+  📫 How to reach me: <strong>chanukaranditha9@gmail.com</strong><br />
+ 
+</p>
+<br>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5yX62tOZiJUOAce_fsQwFo1dbqx_CzdNWQ&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuka999&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka999" /> </p>
