@@ -8,8 +8,7 @@
 <h1 align="center">✨ About Me</h1>
 <h3 align="center">I'm CHANUKA RANDITHA</h3>
 <p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>
-<p align="center">
-Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka<br />
+
  
   🌱 I’m currently learning <strong>Java,PHP,NODE JS,PYTHON,REACT</strong><br />
   💬 Ask me about <strong>FULL STACK WEB DEVELOPMENT</strong><br />
