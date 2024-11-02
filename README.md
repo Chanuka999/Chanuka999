@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=40&lines=Hey+There+👋,+I'm+CHANUKA+RANDITHA;+BSC+UNDERGRADUATE+STUDENT+☀;EASTERN+UNIVERSITY;+COMPUTER+SCIENCE+STUDENT+💻;Love+To+Impactful+Projects+🛠;">
 </h3>
 
-<h1 align="center">✨ About Me</h1>
+<h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me</h1>
 <h3 align="center">I'm CHANUKA RANDITHA</h3>
 <p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>
 <p align="center">🌱 I’m currently learning <strong>JAVA,PHP,NODE JS,PYTHON,REACT</strong></p><br />
