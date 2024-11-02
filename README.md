@@ -15,8 +15,9 @@
 </p>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5yX62tOZiJUOAce_fsQwFo1dbqx_CzdNWQ&s">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuka999&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka999" /> </p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
 
 
 <p align="left">
