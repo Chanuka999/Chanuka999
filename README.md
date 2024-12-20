@@ -71,11 +71,11 @@
 ### 💻 Connect With Me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/username/" target="_blank">
+    <a href="https://www.linkedin.com/in/chanuka-randitha/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
     </a>
-    <a href="https://github.com/username" target="_blank">
-    <a href="https://github.com/username" target="_blank">
+    <a href="https://github.com/Chanuka999" target="_blank">
+    <a href="https://github.com/Chanuka999" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Github"/>
     </a>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="width: 50px; height: 50px" alt="HackerRank"/>
