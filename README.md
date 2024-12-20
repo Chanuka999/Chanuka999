@@ -82,8 +82,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="width: 50px; height: 50px" alt="HackerRank"/>
     </a>
 </p>
-<img src="https://github.com/username/username/blob/main/Github/break_line.gif" alt="break line">
-<img src="https://github.com/username/username/blob/main/Github/break_line.gif" alt="break line">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 <p align="center">
