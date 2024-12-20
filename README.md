@@ -78,7 +78,6 @@
     <a href="https://github.com/username" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Github"/>
     </a>
-    <a href="https://stackoverflow.com/users/21296342/username?tab=profile" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="width: 50px; height: 50px" alt="HackerRank"/>
     </a>
 </p>
