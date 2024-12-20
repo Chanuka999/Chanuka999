@@ -52,73 +52,38 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
 <br/><br/>
-<h5>Languages</h5>
-<span>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</span>
-<h5>Databases</h5>
-<span>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
- 
- <h5>Editors</h5>
-<span>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-</span>
- 
 
- 
-<h5>Education</h5>
-<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
-<h5>framwork</h5>
-<span>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
+<div align="center">
 
-<h5>Office</h5>
-<span>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-</span>
- 
-<h5>OS</h5>
-<span>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
- </span>
-<h5>Prototyping Platforms</h5>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-<h5>Social</h5>
-<span>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</span>
- 
+| Title           | Icon                                                                                                      |
+|-----------------|-----------------------------------------------------------------------------------------------------------|
+| IDE             | <img src="https://skillicons.dev/icons?i=idea,vscode"/>                                                   |
+| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                      |
+| App Development | <img src="https://skillicons.dev/icons?i=java,py"/>                                                       |
+| Front End       | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,vue,js,jquery,react,ts"/> |
+| Back End        | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,regex,mysql,mongodb"/>      |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,codepen,stackoverflow"/> |
 
-<h5>Terminal</h5>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</div>
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
-<h5>Web Browsers</h5>
-<span>
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
-<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
-<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
- </span>
-<hr>
+### 💻 Connect With Me
 
-  
+<p align="left">
+    <a href="https://www.linkedin.com/in/username/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
+    </a>
+    <a href="https://github.com/username" target="_blank">
+    <a href="https://github.com/username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="Github"/>
+    </a>
+    <a href="https://stackoverflow.com/users/21296342/username?tab=profile" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="width: 50px; height: 50px" alt="HackerRank"/>
+    </a>
+</p>
+<img src="https://github.com/username/username/blob/main/Github/break_line.gif" alt="break line">
+<img src="https://github.com/username/username/blob/main/Github/break_line.gif" alt="break line">
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 <p align="center">
