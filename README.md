@@ -78,6 +78,7 @@
     <a href="https://github.com/Chanuka999" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Github"/>
     </a>
+       <a href="https://hackerrank.com/profile/chanukaranditha1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="width: 50px; height: 50px" alt="HackerRank"/>
     </a>
 </p>
