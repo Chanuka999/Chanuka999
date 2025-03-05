@@ -2,6 +2,8 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6666&height=120&section=header"/>
+
+
 <h3 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=40&lines=Hey+There+👋,+I'm+CHANUKA+RANDITHA;+BSC+UNDERGRADUATE+STUDENT+☀;EASTERN+UNIVERSITY;+COMPUTER+SCIENCE+STUDENT+💻;Love+To+Impactful+Projects+🛠;">
 </h3>
