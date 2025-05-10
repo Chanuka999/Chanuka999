@@ -90,6 +90,7 @@ Sri Lanka Most Active GitHub Users Rank : [![committers.top badge](https://user-
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <details open>  
+
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
@@ -102,6 +103,15 @@ Sri Lanka Most Active GitHub Users Rank : [![committers.top badge](https://user-
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka999&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=FF0000" />
     <br/><br/>
+    ### 🌌 3D Contribution metrics(latest)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Chanuka999/Chanuka999/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Chanuka999/Chanuka999/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3d-contrib" src="3d-contrib.svg" />
+</picture>
+
+---
     
 </p>
 </details>
