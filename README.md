@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Chanuka999/chanuka999/81477ef051bee677d03b54ff2b8a66ecde6b2618/CHANUKA%20RANDITHA%20(1).png)
 
-Sri Lanka Most Active GitHub Users Rank : [![committers.top badge](https://user-badge.committers.top/sri_lanka/Chanuka999.svg)](https://user-badge.committers.top/sri_lanka/Chanuka999)
+ [![committers.top badge](https://user-badge.committers.top/sri_lanka/Chanuka999.svg)](https://user-badge.committers.top/sri_lanka/Chanuka999)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6666&height=120&section=header"/>
