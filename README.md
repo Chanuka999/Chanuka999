@@ -13,7 +13,7 @@
 <h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me</h1>
 <h3 align="center">I'm CHANUKA RANDITHA</h3>
 <p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>
-<p align="center">🌱 I’m currently learning <strong>JAVA,PHP,NODE JS,PYTHON,REACT</strong></p><br />
+<p align="center">🌱 I’m currently learning <strong>JAVASCRIPT ,PHP ,NODEJS ,REACT, EXPRESS JS, NEXTJS, JAVA</strong></p><br />
  <p align="center"> 💬 Ask me about <strong>FULL STACK WEB DEVELOPMENT</strong></p><br />
   <p align="center">📫 How to reach me: <strong>chanukaranditha99@gmail.com</strong></p><br />
  
